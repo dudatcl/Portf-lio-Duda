@@ -1,0 +1,21 @@
+button {
+  background-color: rgb(255, 220, 211);
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+  border-radius: 8px;
+  padding: 8px ;
+  margin-bottom: 16px ; 
+}
+
+button:hover {
+  cursor : pointer;
+}
+
+a {
+  font-weight: bold;
+  color: #444444;
+}
+
+body.dark a {
+  color: #e5e5e5;
+}
